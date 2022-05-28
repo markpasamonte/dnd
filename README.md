@@ -10,6 +10,7 @@ npm install
 ```
 npm run serve
 ```
+![sample](https://user-images.githubusercontent.com/63542351/170845108-719d179e-5652-40cc-8fe9-4b6eefed54eb.gif)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
